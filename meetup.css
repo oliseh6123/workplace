@@ -1,0 +1,24 @@
+html{
+  background-color: black
+}
+.head{
+  color: blue;
+  background-color: red;
+}
+.pain{
+  color:white;
+}
+.pics{
+  width: 400px;
+  height:400px;
+  border: 2px solid #b4b4b4;
+  -webkit-transform: rotate(180deg);     /* Chrome and other webkit browsers */
+  -moz-transform: rotate(180deg);        /* FF */
+  -o-transform: rotate(180deg);          /* Opera */
+  -ms-transform: rotate(180deg);         /* IE9 */
+  transform: rotate(180deg);
+  
+}
+.style{
+  color: green;
+}
